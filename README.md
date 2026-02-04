@@ -152,9 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Tiff**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yhuuuu](https://github.com/yhuuuu)
 
 ## 🙏 Acknowledgments
 
